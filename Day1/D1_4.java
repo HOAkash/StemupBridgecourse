@@ -1,0 +1,13 @@
+public class D1_4 {
+   
+    public static void main(String[] args) {
+        double celsius = 26.0;
+        double fahrenheit = (celsius * 9 / 5) + 32;
+
+        System.out.println(celsius + "°C is equal to " + fahrenheit + "°F");
+    }
+}
+
+
+    
+
